@@ -2,7 +2,7 @@
 title: Sono Shah
 role: Computational Social Scientist
 avatar_filename: avatar
-superuser: false
+superuser: true
 ---
 I’m Sono Shah! I am currently a Computational Social Scientist with the [Data Labs team at Pew Research Center](https://www.pewresearch.org/topics/data-labs/). I also recently finished up my Ph.D.in Political Science at the [University of California Riverside](http://politicalscience.ucr.edu/).
 
