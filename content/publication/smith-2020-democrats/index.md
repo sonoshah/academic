@@ -7,6 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Pew Research Center, Fact Tank: News in the Numbers*"
-url_pdf = "https://www.pewresearch.org/fact-tank/2020/02/03/democrats-on-twitter-more-liberal-less-focused-on-compromise-than-those-not-on-the-platform/"
+url_pdf: "https://www.pewresearch.org/fact-tank/2020/02/03/democrats-on-twitter-more-liberal-less-focused-on-compromise-than-those-not-on-the-platform/"
 ---
 
