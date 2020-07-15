@@ -6,7 +6,7 @@ authors: ["Benjamin Newman", "Jennifer L Merolla", "Sono Shah", "Danielle Casare
 publication: "*British Journal of Political Science*"
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 url_pdf: "https://doi.org/10.1017/S0007123419000590"
 categories: ["Academic"]
 ---
