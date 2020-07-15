@@ -8,5 +8,8 @@ abstract: "The scholarly literature is observing a slow but steady growth in res
 publication: "*Public Opinion Quarterly*"
 draft: false
 url_pdf: "https://academic.oup.com/poq/advance-article/doi/10.1093/poq/nfx039/4782668?guestAccessKey=f2aab80d-1923-40ab-95f9-e785214f73ce"
+links:
+  - name: Media
+    url: "https://blogs.lse.ac.uk/usappblog/2018/01/24/during-the-election-donald-trumps-racist-rhetoric-activated-the-fears-of-people-in-areas-with-growing-latino-populations/"
 ---
 
