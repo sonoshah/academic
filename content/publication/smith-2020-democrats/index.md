@@ -2,7 +2,7 @@
 title: "Democrats on Twitter more liberal, less focused on compromise than those not on the platform"
 date: 2020-01-01
 publishDate: 2020-07-15T15:57:50.710615Z
-authors: ["Aaron Smith", "Adam Hughes",Emma Remy", "Sono Shah"]
+authors: ["Aaron Smith", "Adam Hughes","Emma Remy", "Sono Shah"]
 publication_types: ["2"]
 abstract: ""
 featured: false

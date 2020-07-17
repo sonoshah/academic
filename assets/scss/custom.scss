@@ -1,0 +1,19 @@
+/*************************************************
+ *  About widget
+ **************************************************/
+
+
+.avatar {
+  width: 300px;
+  height: 400px;
+  margin: 0 auto;
+  object-fit: cover;
+}
+
+// Use smaller avatar size in About widget on small devices.
+@include media-breakpoint-down(sm) {
+  .wg-about .avatar {
+    width: 200px;
+    height: 300px;
+  }
+}
